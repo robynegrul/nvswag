@@ -1,0 +1,28 @@
+{
+  "plugins": {
+    "catppuccin": {
+      "rev": "0303a7208dba448c459767486a38a6ec05c4216b",
+      "src": "https://github.com/catppuccin/nvim.git"
+    },
+    "lualine": {
+      "rev": "221ce6b2d999187044529f49da6554a92f740a96",
+      "src": "https://github.com/nvim-lualine/lualine.nvim.git"
+    },
+    "mini.pairs": {
+      "rev": "30cf2f01c4aaa2033db67376b9924fa2442c05d6",
+      "src": "https://github.com/nvim-mini/mini.pairs.git"
+    },
+    "numbertoggle": {
+      "rev": "c5c0d305aee8532b5515914a08396b9154394c55",
+      "src": "https://github.com/sitiom/nvim-numbertoggle.git"
+    },
+    "plenary": {
+      "rev": "74b06c6c75e4eeb3108ec01852001636d85a932b",
+      "src": "https://github.com/nvim-lua/plenary.nvim"
+    },
+    "yazi": {
+      "rev": "7514be498c56f2a57e5a72faf55c517b9576665b",
+      "src": "https://github.com/mikavilpas/yazi.nvim.git"
+    }
+  }
+}
